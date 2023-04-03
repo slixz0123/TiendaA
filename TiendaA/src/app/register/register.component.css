@@ -1,0 +1,37 @@
+.registration-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+      
+
+  }
+  
+  .mat-card {
+    
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+ 
+  }
+  
+  .mat-form-field {
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 20px;
+    width: 100%;
+  }
+  .mat-form-field-label {
+    font-weight: bold;
+  }
+  .container {
+    max-width: 600%;
+    margin: 0 auto;
+  }
+  .example-form{
+    width: 1080px;
+  }
+  
+  
